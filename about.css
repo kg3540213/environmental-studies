@@ -1,0 +1,32 @@
+.about-section {
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+}
+
+.about-section {
+    font-size: 28px;
+    color: #333333;
+}
+
+.about-section p {
+    font-size: 16px;
+    color: #666666;
+    line-height: 1.6;
+}
+
+.about-section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about-section a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.about-section a:hover {
+    text-decoration: underline;
+}

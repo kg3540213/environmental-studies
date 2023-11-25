@@ -1,0 +1,32 @@
+.solutions-section {
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+}
+
+.solutions-section h2 {
+    font-size: 28px;
+    color: #333333;
+}
+
+.solutions-section p {
+    font-size: 16px;
+    color: #666666;
+    line-height: 1.6;
+}
+
+.solutions-section img {
+    max-width: 50%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.solutions-section b {
+    font-size: 20px;
+}
+
+.centered-image img{
+    max-width: 50%;
+    height: auto;
+}
